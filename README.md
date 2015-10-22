@@ -1,2 +1,2 @@
 # jLPC
-A Java application to help using LPC, the French version of cued speech.
+Une application Java qui facilite l'application du Langage Parlé Complété (LPC).
