@@ -1,0 +1,8 @@
+dependencies {
+    // Dependency on 3DMenu and shared libs.
+    compile project(':Libs:global-lib')
+	compile 'org.glassfish.jersey:jersey-bom:2.4.1'
+	compile 'org.glassfish.jersey.media:jersey-media-moxy:2.4.1'
+}
+
+
